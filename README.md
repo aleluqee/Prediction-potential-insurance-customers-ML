@@ -2,7 +2,7 @@
 Through this data set we seek to classify potential customers to purchase insurance policies, using Machine Learning tools, which will allow the company to identify where it should direct its efforts.
 It is important to know that this data set is very unbalanced, so a technique (SMOTE) was used to increase the performance of the models.
 # Objective
-To find the best rating model to determine potential insurance policy customers
+To find the best classification model to determine potential insurance policy customers
 
 # Instructions
 The repository contains:
